@@ -1,0 +1,15 @@
+// package.json
+{
+  "name": "nodejs-ec2-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to run on AWS EC2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Sreekanth",
+  "license": "ISC"
+}
